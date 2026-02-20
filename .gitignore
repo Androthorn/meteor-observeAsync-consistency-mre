@@ -1,5 +1,8 @@
 node_modules/
 
+# Meteor local build directory
+.meteor/local
+
 # Meteor Modern-Tools build context directories
 _build
 */build-assets
